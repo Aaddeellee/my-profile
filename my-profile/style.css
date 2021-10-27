@@ -1,0 +1,85 @@
+h1 {
+  color: pink;
+	font-size: 38px;
+}
+
+h3 {
+  color: purple;
+	font-size: 20px;
+}
+h4{
+  color: purple;
+	font-size: 20px;
+}
+h5{
+  color: purple;
+  font-family: Arial;
+	font-size: 20px;
+}
+
+body {
+  font-family: Times, serif;
+	font-family: Arial, sans-serif;
+	font-family: Courier, monospace;
+	text-align: center;
+} 
+body {
+  font-weight: lighter;
+	font-weight: normal;
+	font-weight: bold;
+	font-weight: bolder;
+}
+
+
+/*Colors and fonts */
+
+body { 
+	 background: lightgrey;
+	 color: purple;
+	 font-family: Helvetica;
+	 font-weight: lighter;
+
+	 }
+
+	 h1, h3, h4, h5 {  
+	 	font-family : "Arial", sans-serif; /* if all headers use Arial */
+	 }
+
+ a{
+ 	text-decoration: none;
+ 	transition: color 0,3s ease;
+ 	color: pink;
+ 	
+}
+ 	a:hover {
+ 		color : black; 
+ 		 }
+
+.profile {
+     width:  220px;
+     border-radius: 50%;
+    	box-shadow: 40px 40px 33px black;
+
+ }
+
+
+
+div	{
+	background: white;
+  padding: 20px;
+  margin: 30px;
+  box-shadow: 6px 10px;
+  border-radius: 4px;
+}
+      
+ .paraph {
+ 	color: lightcoral;
+ }
+
+.logo {
+ height: 50px;
+}
+
+
+
+
